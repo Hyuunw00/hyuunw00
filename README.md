@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20hyunw00's&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome&fontSize=90)
 
 
 
