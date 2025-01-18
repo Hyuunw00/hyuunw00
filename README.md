@@ -3,7 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome&fontSize=90)
 
 
-
+[![hyunw00's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
+(https://github.com/bi-sz/github-readme-stats)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
