@@ -28,9 +28,11 @@
 
 ---
 
+<div align="center">
+  <img  align="left"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodingzz&layout=compact&theme=tokyonight" height="170px">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=kodingzz&show_icons=true&theme=tokyonight" height="170px">
+</div>
 
-<img  align="left"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodingzz&layout=compact&theme=tokyonight" height="200px">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=kodingzz&show_icons=true&theme=tokyonight" height="200px">
 
 
 
