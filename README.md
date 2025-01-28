@@ -5,7 +5,7 @@
   
   <img align="right" width="23" src="https://github.com/seondal/seondal/assets/75469131/f3735e2a-2fb1-4e7f-bbea-81f5698213b0" />
 
-  <a href="https://velog.io/@hyunw00/series"><img src="https://img.shields.io/badge/hyunw00-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> 
+  <a href="https://velog.io/@hyunw00"><img src="https://img.shields.io/badge/hyunw00-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> 
   <a href="#">
   <img src="https://img.shields.io/badge/ReadMe-735998?style=badge&logo=GitHub&logoColor=white"/></a> 
 <a href="mailto:khwland090@gmail.com">
