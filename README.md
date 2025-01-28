@@ -8,7 +8,9 @@
   <a href="https://velog.io/@khw090/series"><img src="https://img.shields.io/badge/hyunw00-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> 
   <a href="#">
   <img src="https://img.shields.io/badge/ReadMe-735998?style=badge&logo=GitHub&logoColor=white"/></a> 
-
+<a href="mailto:khwland090@gmail.com">
+    <img
+      src="https://img.shields.io/badge/khwland090@gmail.com-D14836?style=badge&logo=gmail&logoColor=white"/>
 </div>
 
   ---
