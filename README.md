@@ -1,6 +1,6 @@
 
 <div align="left">
-  
+
   ### 🐲Hyunw00's Github🐉
   
   <img align="right" width="23" src="https://github.com/seondal/seondal/assets/75469131/f3735e2a-2fb1-4e7f-bbea-81f5698213b0" />
@@ -14,10 +14,12 @@
 </div>
 
   ---
+  
+<img src="https://github-profile-trophy.vercel.app/?username=kodingzz" alt="Trophy" />
 
   ### Studying...✏️ 
   <div align="left">
-    
+
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a"/> <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" />
 
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" /> <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
