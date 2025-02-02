@@ -26,7 +26,7 @@
 
 <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" /> <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=React%20Router&logoColor=white" /> 
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/Supabse-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white" /> <img src="https://img.shields.io/badge/react%20query-41E0FD.svg?style=for-the-badge&logo=react%20query&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/Supabse-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white" /> <img src="https://img.shields.io/badge/react%20query-41E0FD.svg?style=for-the-badge&logo=react%20query&logoColor=white" /> 
   </div>
 
 
