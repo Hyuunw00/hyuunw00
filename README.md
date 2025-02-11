@@ -1,24 +1,17 @@
 
 <div align="left">
 
-  ### 🐲Hyunw00's Github🐉
-  
+  <h3>🐲Hyunw00's Github🐉</h3>
   <img align="right" width="25" src="https://github.com/seondal/seondal/assets/75469131/f3735e2a-2fb1-4e7f-bbea-81f5698213b0" />
-
-
-<a href="mailto:khwland090@gmail.com">
-  
 </div>
 
 <div align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=kodingzz" alt="Trophy" />
+
+  ![trophy](https://github-profile-trophy.vercel.app/?username=kodingzz&row=1&column=5)
 </div>
 
 ---
 
-
-<div>
-   <img  align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodingzz&layout=compact&theme=tokyonight" height="170px">
 
 <div align="center">
    <h4 align="center"> 🛠 Tech Stack 🛠</h4>
@@ -47,13 +40,24 @@
 
   </div>
 
+</br>
+
+<div  align="center">
+  <img
+  align="center"
+  style="height:180px"
+  src="https://github-readme-stats.vercel.app/api?username=kodingzz&show_icons=true&hide_border=true&bg_color=solid,E6FFE6,DAF7A6&title_color=008000&text_color=006400&icon_color=32CD32"
+  alt="hw github stats"
+/>
+  <img
+    align="center"
+    style="height:180px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodingzz&layout=compact&hide_border=true&bg_color=solid,E6FFE6,DAF7A6&title_color=008000&text_color=006400&icon_color=32CD32"
+    alt="hw top languages"
+  />
 </div>
 
----
 
-<div align="center">
-
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=kodingzz&show_icons=true&theme=tokyonight" height="170px">
 
 
 <div align="center">
@@ -62,8 +66,6 @@
 <a href="https://until.blog/@hyunw00/"><img src="https://img.shields.io/badge/until-000000?style=flat-square&logo=until&logoColor=white"/></a>
 </div>
  
-</div>
-
 
 
 
