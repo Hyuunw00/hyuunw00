@@ -46,13 +46,13 @@
   <img
   align="center"
   style="height:180px"
-  src="https://github-readme-stats.vercel.app/api?username=kodingzz&show_icons=true&hide_border=true&bg_color=solid,E6FFE6,DAF7A6&title_color=008000&text_color=006400&icon_color=32CD32"
+  src="https://github-readme-stats.vercel.app/api?username=hyuunw00&show_icons=true&hide_border=true&bg_color=solid,E6FFE6,DAF7A6&title_color=008000&text_color=006400&icon_color=32CD32"
   alt="hw github stats"
 />
   <img
     align="center"
     style="height:180px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodingzz&layout=compact&hide_border=true&bg_color=solid,E6FFE6,DAF7A6&title_color=008000&text_color=006400&icon_color=32CD32"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuunw00&layout=compact&hide_border=true&bg_color=solid,E6FFE6,DAF7A6&title_color=008000&text_color=006400&icon_color=32CD32"
     alt="hw top languages"
   />
 </div>
