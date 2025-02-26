@@ -17,13 +17,17 @@
    <h3 align="center"> 🛠 Tech Stack 🛠</h3>
   <p align="center"> Tech stats I mainly use</p>
   
- <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
+<!-- <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
  <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white" /> 
- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=20232a"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=20232a"/>
+ -->
+ 
+
 
 <br/>
 
 <img src="https://img.shields.io/badge/react-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/typescript-2F73BF?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
 
 <br/>
