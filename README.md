@@ -25,21 +25,14 @@
 
 
 <br/>
-
-<img src="https://img.shields.io/badge/react-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/typescript-2F73BF?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react,vue,js,ts" />
 
 <br/>
-
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=ffd35b" />
-<img src="https://img.shields.io/badge/tailwindcss-1daabb?style=flat-square&logo=tailwind-css&logoColor=white" /> 
+ <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,supabase,firebase" />
 
 </br>
 
 
- <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white" /> 
- <img src="https://img.shields.io/badge/Supabse-3FCF8E?style=flat-square&logo=Supabase&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" /> !-->
 
   </div>
