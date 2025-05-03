@@ -5,10 +5,13 @@
   <img align="right" width="25" src="https://github.com/seondal/seondal/assets/75469131/f3735e2a-2fb1-4e7f-bbea-81f5698213b0" />
 </div>
 
+<!--
 <div align="left">
 
   ![trophy](https://github-profile-trophy.vercel.app/?username=Hyuunw00&row=1&column=5)
 </div>
+
+!-->
 
 ---
 
