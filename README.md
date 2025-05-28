@@ -26,7 +26,7 @@
 
 
 <br/>
-<img src="https://skillicons.dev/icons?i=react,vue,js,ts" />
+<img src="https://skillicons.dev/icons?i=react,vue,next,ts" />
 
 <br/>
  <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,supabase,firebase" />
