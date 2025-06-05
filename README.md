@@ -26,10 +26,10 @@
 
 
 <br/>
-<img src="https://skillicons.dev/icons?i=react,vue,next,ts" />
+<img src="https://skillicons.dev/icons?i=ts,react,vue,next" />
 
 <br/>
- <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,supabase,firebase" />
+ <img src="https://skillicons.dev/icons?i=java,supabase,firebase" />
 
 </br>
 
