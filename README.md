@@ -61,7 +61,6 @@
 <div align="center">
   <h3 align="center"><b>📞📫 How to reach me</b></h3>
 <a href="mailto:khwland0900@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khwland090@gmail.com"/></a>
-<a href="https://until.blog/@hyunw00/"><img src="https://img.shields.io/badge/until-000000?style=flat-square&logo=until&logoColor=white"/></a>
 <a href="https://velog.io/@khw090/posts/"><img src="https://img.shields.io/badge/velog-3FCF8E?style=flat-square&logo=velog&logoColor=white"/></a>
 </div>
  
