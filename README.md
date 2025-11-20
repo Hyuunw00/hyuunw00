@@ -7,7 +7,6 @@
 
 <div align="left">
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Hyuunw00&row=1&column=5)
 </div>
 
 
